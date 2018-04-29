@@ -1,0 +1,70 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\seong Ji-ae\\Desktop\\CapstoneProject3\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\seong Ji-ae\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\f63630778399a22908d78c4abb4a019e\\res\\values-w600dp\\values-w600dp.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "283,347",
+                        "endColumns": "63,54",
+                        "endOffsets": "342,397"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,119",
+                        "endColumns": "63,54",
+                        "endOffsets": "114,169"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\vv092\\CapstoneProject\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vv092\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\7f920a9146d33c1e267f2223cde3b7a3\\res\\values-w600dp\\values-w600dp.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "283,347",
+                        "endColumns": "63,54",
+                        "endOffsets": "342,397"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,119",
+                        "endColumns": "63,54",
+                        "endOffsets": "114,169"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\seong Ji-ae\\Desktop\\CapstoneProject\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\seong Ji-ae\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\ea0007e8bc160a11b8cf64ca0e88fb91\\res\\values-w600dp\\values-w600dp.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "283,347",
+                        "endColumns": "63,54",
+                        "endOffsets": "342,397"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,119",
+                        "endColumns": "63,54",
+                        "endOffsets": "114,169"
+                    }
+                }
+            ]
+        }
+    ]
+}

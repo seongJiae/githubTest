@@ -1,0 +1,4 @@
+#Fri Mar 02 14:23:13 KST 2018
+base.0=C\:\\Users\\vv092\\CapstoneProject\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\vv092\\CapstoneProject\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
